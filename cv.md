@@ -1,7 +1,7 @@
 * *E-mail*: dasha-nov13@rambler.ru
 * *Phone*: +375333596741
 * *Telegram*: +37533359674
-* *Instagram*: [Instagram] (https://www.instagram.com/dashamakk/)
+* *Instagram*: [Instagram](https://www.instagram.com/dashamakk/)
 * *City*: Novopolotsk, Vitebsk region, Belarus
 
 # Skills 
