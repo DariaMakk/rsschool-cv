@@ -4,9 +4,6 @@
 * *Instagram*: [Instagram](https://www.instagram.com/dashamakk/)
 * *City*: Novopolotsk, Vitebsk region, Belarus
 
-# Skills 
-HTML5/CSS3, JavaScript - beginner.
-
 # Summary
 I am a positive-minded, purposeful, responsible, analytical thinking and comunicative person. Also, I can listen and work in team.  
 
@@ -15,6 +12,8 @@ On that job I learned how to make quick decisions under time pressure.
 
 My hobbies are reading, sport, picnics, movies, games, cooking.
 
+# Skills 
+HTML5/CSS3, JavaScript - beginner.
 
 # Education 
 * Sept2020-present – *RS School*
